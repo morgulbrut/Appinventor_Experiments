@@ -1,1 +1,4 @@
 Collection of little appinventor experiments: come as .aia or .apk files. .aia can be imported into appinventor.
+
+- Barcoder: Reads EAN using your Barcode reader, and looks up on diffrent pages. for example you can read a cds EAN and look it up on 
+discogs.
